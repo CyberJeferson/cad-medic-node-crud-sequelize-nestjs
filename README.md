@@ -17,7 +17,7 @@
 <p>Update</p> 
 <p>Select</p> 
 <p>Soft Delete</p> 
-<p>Ao cadastrar o CEP, faz uma reqisição via XHR para a API dos correios e retorna todos os dados de endereço do médico</p>
+<p>Ao cadastrar o CEP é feita uma requisição  via XHR para a API dos correios e retorna todos os dados de endereço do médico</p>
 <p>Ao cadastrar o médico ele deve ter mais de duas especialidades</p> 
   <h1>Modelagem do banco de dados</h1>
   <img src="./bd.png"/>
