@@ -4,15 +4,14 @@
   <h2>Tecnologias</h2>
   
 <ol>
-  <li>Nodejs</li>
+  <li>NodeJS</li>
   <li>Framework NestJS</li>
   <li>TypeScript</li>
   <li>Sequelize</li>
   <li>Banco de dados MYSQL</li>
   <li>Validação ValidationPipe</li>
   <li>Sequelize-cli Migrations and seeds</li>
-  <li> Validação ValidationPipe</li>
-  <li> fetch para fazer a requizição XHR assíncrono</li>
+  <li>Fetch para fazer a requisições XHR assíncronoas/li>
 </ol>
 <p>Insert</p> 
 <p>Update</p> 
@@ -20,10 +19,6 @@
 <p>Soft Delete</p> 
 <p>Ao cadastrar o CEP, faz uma reqisição via XHR para a API dos correios e retorna todos os dados de endereço do médico</p>
 <p>Ao cadastrar o médico ele deve ter mais de duas especialidades</p> 
-  
   <h1>Modelagem do banco de dados</h1>
   <img src="./bd.png"/>
-  
-  
-
 </div>
