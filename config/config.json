@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "gcb",
+    "host": "localhost",
+    "dialect": "mysql",
+    "development": {
+      "autoMigrateOldSchema": true
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "gcb",
+    "host": "localhost",
+    "dialect": "mysql",
+    "development": {
+      "autoMigrateOldSchema": true
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "gcb",
+    "host": "localhost",
+    "dialect": "mysql",
+    "development": {
+      "autoMigrateOldSchema": true
+    }
+  }
+}
