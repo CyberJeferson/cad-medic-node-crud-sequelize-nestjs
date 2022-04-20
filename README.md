@@ -11,7 +11,7 @@
   <li>Banco de dados MYSQL</li>
   <li>Validação ValidationPipe</li>
   <li>Sequelize-cli Migrations and seeds</li>
-  <li>Fetch para fazer a requisições XHR assíncronoas/li>
+  <li>Fetch para fazer a requisições XHR assíncronoas</li>
 </ol>
 <p>Insert</p> 
 <p>Update</p> 
