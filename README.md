@@ -9,7 +9,7 @@
   <li>TypeScript</li>
   <li>Sequelize</li>
   <li>Banco de dados MARIADB/MYSQL</li>
-  <li>Validação ValidationPipe</li>
+  <li>Validações ValidationPipe</li>
   <li>Sequelize-cli Migrations and seeds</li>
   <li>Fetch para fazer a requisições XHR assíncronoas</li>
 </ol>
